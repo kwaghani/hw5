@@ -1,5 +1,10 @@
-*.o
 hw5_tests/
-wordle-driver
-schedwork-driver
-
+*.o
+*.out
+*.exe
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+CMakeLists.txt
+wordle_tests
+libhw5_wordle.a
